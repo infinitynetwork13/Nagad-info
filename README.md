@@ -21,7 +21,7 @@ apt update
 apt upgrade -y
 apt install git -y
 apt install python -y
-apt install requests
+pip install requests
 pip install omero-marshal
 git clone https://github.com/infinitynetwork13/Nagad-info.git
 cd Nagad-info
