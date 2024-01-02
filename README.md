@@ -16,7 +16,7 @@
 ## Screenshot
 ![Image](https://github.com/infinitynetwork13/Nagad-info/assets/155347164/b689edc5-2cb9-4c2b-97bb-e8aa804835c3)
 ### installation
-```
+```ruby
 apt update
 apt upgrade -y
 apt install git -y
@@ -28,11 +28,11 @@ cd Nagad-info
 python nagad-info.py
 ```
 ## On Click installation
-```
+```ruby
 apt update && apt upgrade -y && apt install git -y && apt install python -y && pip install requests && pip install omero-marshal && git clone https://github.com/infinitynetwork13/Nagad-info.git && cd Nagad-info && python nagad-info.py
 ```
 ## Tool Run
-```
+```ruby
 cd Nagad-info
 python nagad-info.py
 ```
